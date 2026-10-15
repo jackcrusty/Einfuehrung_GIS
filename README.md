@@ -10,4 +10,4 @@ Sozialstruktur 2025 nach Planungsräumen
 
 Datenklassifikation - Bevölkerungsverteilung 2019
 
-![enter image description here](https://github.com/jackcrusty/Einfuehrung_GIS/blob/main/Berlin_LOR_Bev19.png?raw=true)
+![enter image description here](https://github.com/jackcrusty/Einfuehrung_GIS/blob/main/Berlin_LOR_Bev19_.png?raw=true)
