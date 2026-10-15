@@ -5,3 +5,6 @@ Sozialstruktur 2025 nach Planungsräumen
 
 ![enter image description here](https://github.com/jackcrusty/GIS/blob/main/Layout.png?raw=true)
 
+# **Übung 2**
+
+Datenklassifikation - Bevölkerungsverteilung 2019
